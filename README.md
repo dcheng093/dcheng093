@@ -1,22 +1,18 @@
-<h1 align="center">Hi 👋, I'm Daniel Peter</h1>
-<h3 align="center">A j*bless 18 year old with no coding experience prior to 42</h3>
+# 💫 About Me:
+🔭 I’m currently working on [finishing 42KL's core program](https://profile-v3.intra.42.fr/users/dcheng)<br>💬 Ask me about Valorant<br>📫 How to reach me chengpeter37093@gmail.com<br>⚡ Fun fact I used to create frag montages
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dcheng093&label=Profile%20views&color=0e75b6&style=flat" alt="dcheng093" /> </p>
 
-- 🔭 I’m currently working on [finishing 42KL's core program](https://profile-v3.intra.42.fr/users/dcheng)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/spookybob9) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Additional-Toe-2781) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aimlolxd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gh0led) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@aimlolxd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chengpeter37093@gmail.com) 
 
-- 💬 Ask me about **Valorant**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dcheng093&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dcheng093&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcheng093&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **chengpeter37093@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=dcheng093&icon=0&color=12)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I used to create frag montages**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@gh0led" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gh0led" height="30" width="40" /></a>
-<a href="https://instagram.com/spookybob9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spookybob9" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@aimlolxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aimlolxd" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
