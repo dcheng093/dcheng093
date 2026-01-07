@@ -6,7 +6,7 @@
 
 # 💕 About Me:
 - Computer Science Student at [42KL](https://profile-v3.intra.42.fr/users/dcheng)
-- No coding experience prior to <img src="https://yt3.googleusercontent.com/ytc/AIdro_kS6_4Rf9JdZgEQ53BK_Vfj7NEG3mOMG1vaHgv0lCXngw=s160-c-k-c0x00ffffff-no-rj" alt="42" width="32" height="32"/>
+- No coding experience prior to <img src="https://yt3.googleusercontent.com/ytc/AIdro_kS6_4Rf9JdZgEQ53BK_Vfj7NEG3mOMG1vaHgv0lCXngw=s160-c-k-c0x00ffffff-no-rj" alt="42" width="32" height="32" style="vertical-align:middle;"/>
 - Received a formal letter regarding acedemic misconduct within 2 months
 - Doesn't know how to socialize
 - Games all day
