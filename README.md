@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dcheng093&label=Profile%20views&color=0e75b6&style=flat" alt="dcheng093" /> </p>
 
-![cute gif](https://tenor.com/view/cat-crazy-funny-cat-meme-tweaking-gif-1135020915071455925)
+![cute gif](https://tenor.com/view/cat-crazy-funny-cat-meme-tweaking-gif-1135020915071455925.gif)
 
 # 💕 About Me:
 - Computer Science Student at [42KL](https://profile-v3.intra.42.fr/users/dcheng)
