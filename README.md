@@ -7,7 +7,7 @@
 # 💕 About Me:
 - Computer Science Student at [42KL](https://profile-v3.intra.42.fr/users/dcheng)
 - No coding experience prior to 42
-- Received a formal letter regarding acedemic misconduct within 2 months
+- Received a formal letter regarding acedemic misconduct within 2 months (got too silly 😞)
 - Doesn't know how to socialize
 - Games all day
 
