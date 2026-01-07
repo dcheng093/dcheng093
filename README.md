@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Peter</h1>
 <h3 align="center">A j*bless 18 year old with no coding experience prior to 42</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dcheng093&label=Profile%20views&color=0e75b6&style=flat" alt="dcheng093" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dcheng093&label=Profile%5209views&color=0e75b6&style=flat" alt="dcheng093" /> </p>
 
 - 🔭 I’m currently working on [finishing 42KL's core program](https://profile-v3.intra.42.fr/users/dcheng)
 
