@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dcheng093&label=Profile%20views&color=0e75b6&style=flat" alt="dcheng093" /> </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/D8Bngjd5ErUAAAAd/tenor.gif" alt="cute gif" />
+  <img src="https://c.tenor.com/D8Bngjd5ErUAAAAd/tenor.gif" alt="cute gif" width="300:"/>
 </p>
 
 # 💕 About Me:
