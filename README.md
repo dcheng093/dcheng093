@@ -1,10 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dcheng093&label=Profile%20views&color=0e75b6&style=flat" alt="dcheng093" /> </p>
 
 <p align="center">
-  ![cute gif](https://c.tenor.com/D8Bngjd5ErUAAAAd/tenor.gif)
+  <img src="https://media.tenor.com/D8Bngjd5ErUAAAAd.gif" alt="cute gif" />
 </p>
-
-
 
 # 💕 About Me:
 - Computer Science Student at [42KL](https://profile-v3.intra.42.fr/users/dcheng)
