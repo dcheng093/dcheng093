@@ -31,5 +31,4 @@ int main() {
 
 ## This is my current status at school
 
-<!-- [![dcheng's 42 stats](https://badge42.vercel.app/api/v2/cliecgu3i001108l40dwr9zlx/stats?cursusId=21&coalitionId=piscine)](https://profile.intra.42.fr/users/dcheng) -->
-[![dcheng's 42 stats](https://badge.mediaplus.ma/darkblue/dcheng-?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/dcheng)
+[![dcheng's 42 stats](https://badge.mediaplus.ma/darkblue/dcheng)](https://github.com/oakoudad/badge42)
