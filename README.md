@@ -19,7 +19,7 @@ int main() {
     bool alive = true;
 
     while (alive) {
-        printf("I am %s, surviving 42 and gaming late nights <333\n", ME);
+        printf("I am %s, surviving 42 and gaming late nights <333\n", DANIEL);
     }
 }
 ```
