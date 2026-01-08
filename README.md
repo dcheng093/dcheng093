@@ -12,15 +12,11 @@
 
 ```c
 #include <stdio.h>
-#include <stdbool.h>
 
 int main() {
-    const char* DANIEL = "chaotic coder & gamer";
-    bool alive = true;
-
-    while (alive) {
-        printf("I am %s, surviving 42 and gaming late nights <333\n", DANIEL);
-    }
+    char*DANIEL="chaotic coder & gamer";
+    for(;;) // infinite grind loop
+        printf("I am %s, surviving 42 & gaming late nights <333\n", DANIEL);
 }
 ```
 
