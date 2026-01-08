@@ -31,4 +31,4 @@ int main() {
 
 ## This is my current status at school
 
-[![dcheng's 42 stats](https://badge.mediaplus.ma/water/dcheng?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![dcheng's 42 stats](https://badge.mediaplus.ma/black/dcheng?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
