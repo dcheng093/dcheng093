@@ -28,3 +28,8 @@ int main() {
 
 # Other / Fun stuff I use:
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+
+## This is my current status at school
+
+<!-- [![dcheng's 42 stats](https://badge42.vercel.app/api/v2/cliecgu3i001108l40dwr9zlx/stats?cursusId=21&coalitionId=piscine)](https://profile.intra.42.fr/users/dcheng) -->
+[![dcheng's 42 stats](https://badge.mediaplus.ma/darkblue/dcheng-?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/dcheng)
