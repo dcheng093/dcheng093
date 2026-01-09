@@ -5,7 +5,7 @@
 </p>
 
 # 💕 About Me:
-- Computer Science Student at [42KL](https://profile-v3.intra.42.fr/users/dcheng)
+- Computer Science Student at 42KL
 - Received a formal letter regarding acedemic misconduct within 2 months (got too silly 😞)
 - Doesn't know how to socialize
 - Games all day
@@ -28,4 +28,4 @@ int main() {
 
 ## 🎓 This is my current status at school
 
-[![dcheng's 42 stats](https://badge.mediaplus.ma/black/dcheng?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![dcheng's 42 stats](https://badge.mediaplus.ma/black/dcheng?1337Badge=off&UM6P=off)](https://profile-v3.intra.42.fr/users/dcheng)
