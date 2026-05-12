@@ -5,6 +5,7 @@
 </p>
 
 # 💕 About Me:
+![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 - Computer Science Student at 42KL
 - Received a formal letter regarding acedemic misconduct within 2 months (got too silly 😞)
 - Doesn't know how to socialize
@@ -18,7 +19,7 @@
 
 
 # 💻 Languages and tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/vscode-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/vscode-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🎓 This is my current status at school
 
