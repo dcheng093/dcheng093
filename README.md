@@ -5,8 +5,7 @@
 </p>
 
 # 💕 About Me:
-![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
-- Computer Science Student at 42KL
+- Computer Science Student at ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 - Received a formal letter regarding acedemic misconduct within 2 months (got too silly 😞)
 - Doesn't know how to socialize
 - Games all day
