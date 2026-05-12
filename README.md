@@ -10,7 +10,7 @@
 - Doesn't know how to socialize
 - Games all day
 - TOP 1 IN MGEEEEEEEE
-<img width="1040" height="846" alt="hdhhgfd" src="https://github.com/user-attachments/assets/bf27d80f-b8ce-480c-8763-ebb941458efc" />
+<img width="1014" height="296" alt="dfssdfsdfsfddsf" src="https://github.com/user-attachments/assets/d13dfcfb-21b1-49ad-8417-9d85b79897a7" />
 
 
 ## 🌐 Socials:
