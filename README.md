@@ -9,8 +9,7 @@
 - Received a formal letter regarding acedemic misconduct within 2 months (got too silly 😞)
 - Doesn't know how to socialize
 - Games all day
-- TOP 1 IN MGEEEEEEEE
-<img width="1860" height="590" alt="dadssdggsd" src="https://github.com/user-attachments/assets/1f5fe4ba-2a96-4ba0-985a-741b954b273a" />
+
 
 
 ## 🌐 Socials:
