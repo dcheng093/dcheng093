@@ -10,8 +10,8 @@
 - Computer Science Student at 42KL
 - Received 2 letters regarding academic misconduct
 
-<img width="975" height="107" alt="image" src="https://github.com/user-attachments/assets/a78edf5e-ae3b-4044-842f-d4c31e800b9d" />
 <img width="1064" height="142" alt="image" src="https://github.com/user-attachments/assets/b1a80de2-7447-4278-98a7-c0cab4fde3c6" />
+<img width="975" height="107" alt="image" src="https://github.com/user-attachments/assets/a78edf5e-ae3b-4044-842f-d4c31e800b9d" />
 punishment: <a href="https://github.com/dcheng093/Rewritten-eval-and-feedback">rewritten eval notes</a>
 
 
