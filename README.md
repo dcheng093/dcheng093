@@ -17,6 +17,7 @@ punishment: <a href="https://github.com/dcheng093/Rewritten-eval-and-feedback">r
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dcheng093/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/aimlolxd) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/gh0led) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@aimlolxd) [![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/andrewbobert2013) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199556115218)
+<img width="1335" height="856" alt="Screenshot 2026-10-05 at 20-51-13 MGE Leaderboard - AS arctic tf(2)(1)" src="https://github.com/user-attachments/assets/7a43b891-f234-498d-ab86-848e1513729c" />
 
 
 ## 🎓 This is my current status at school
